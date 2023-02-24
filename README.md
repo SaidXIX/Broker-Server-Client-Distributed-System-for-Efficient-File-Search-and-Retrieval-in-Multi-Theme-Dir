@@ -30,7 +30,7 @@ The program follows a distributed system architecture, where the broker acts as 
 
 The program is implemented in Java, using sockets for network communication between the broker, servers, and clients.
 
-##IDE used
+## IDE used
 
 NetBeans
 
