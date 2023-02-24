@@ -33,18 +33,18 @@ The program is implemented in Java, using sockets for network communication betw
 
 
 ## Folder Structure
-.
-└── Folder
-    ├── Subfolder
-    │   ├── File1.txt
-    │   ├── File2.txt
-    │   └── File3.txt
-    ├── Subfolder2
-    │   ├── File4.txt
-    │   ├── File5.txt
-    │   └── File6.txt
-    └── Subfolder3
-        └── File7.txt
+Folder/
+├── Subfolder/
+│   ├── File1.txt
+│   ├── File2.txt
+│   └── File3.txt
+├── Subfolder2/
+│   ├── File4.txt
+│   ├── File5.txt
+│   └── File6.txt
+└── Subfolder3/
+    └── File7.txt
+
 
 
 
