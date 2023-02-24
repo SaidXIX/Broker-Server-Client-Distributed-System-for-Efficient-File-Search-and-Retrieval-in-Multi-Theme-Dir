@@ -30,7 +30,9 @@ The program follows a distributed system architecture, where the broker acts as 
 
 The program is implemented in Java, using sockets for network communication between the broker, servers, and clients.
 
-##Folder Structure
+
+
+## Folder Structure
 Folder/
 ├── Subfolder/
 │   ├── File1.txt
@@ -42,6 +44,7 @@ Folder/
 │   └── File6.txt
 └── Subfolder3/
     └── File7.txt
+
 
 
 ## How to Use
